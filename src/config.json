@@ -1,0 +1,5 @@
+{
+    "hande_tts":"/api/tts",
+    "log_in":"/api/auth/log-in",
+    "sign_up":"/api/auth/sign-up"
+}
